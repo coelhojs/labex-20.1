@@ -5,6 +5,7 @@ Neste laboratório, vamos estudar as principais características de sistemas pop
 ## Questões de Pesquisa:
 
 **RQ 01**. Sistemas populares são maduros/antigos?
+
 *Métrica: idade do repositório (calculado a partir da data de sua criação)*
 
 **RQ 02.** Sistemas populares recebem muita contribuição externa?
