@@ -49,11 +49,9 @@ Divida os resultados obtidos nas **RQs 02, 03 e 04** por linguagem e analise com
 
 ## Processo:
 
-Submeta no SGA, até o dia 08/09, uma pasta compactada (.zip) com os seguintes artefatos:
+Prazo final: 05/03
 
-Os dados coletados num arquivo .csv;
-Os scripts de coleta de dados;
-O relatório final em formato .pdf.
+**Lab01S01**: Consulta graphql para 100 repositórios + requisição automática (4 pontos)
 
 Valor total: 15 pontos
 
