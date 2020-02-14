@@ -35,15 +35,25 @@ Neste laboratório, vamos estudar as principais características de sistemas pop
 
 ## Relatório Final:
 
-Para cada uma questões de pesquisa anteriores, faça uma sumarização dos dados obtidos através de valores medianos. Mesmo que de forma informal, elabore hipóteses sobre o que você espera de resposta e tente analisar a partir dos valores obtidos. Para valores de categoria (ex.: linguagem de programação), elabore uma contagem por categoria, para facilitar suas descobertas. 
+Para cada uma questões de pesquisa anteriores, faça uma sumarização dos dados obtidos através de [valores medianos](https://www.sciencebuddies.org/science-fair-projects/science-fair/summarizing-your-data#meanmedianandmode). Mesmo que de forma informal, elabore hipóteses sobre o que você espera de resposta e tente analisar a partir dos valores obtidos. Para valores de categoria (ex.: linguagem de programação), elabore uma contagem por categoria, para facilitar suas descobertas. 
 
 Elabore um documento que apresente (i) uma introdução simples com hipóteses informais; (ii) a metodologia que você utilizou para responder às questões de pesquisa; (iii) os resultados obtidos para cada uma delas; (iii) a discussão sobre o que você esperava como resultado (suas hipóteses) e os valores obtidos.  
 
 ## Bônus (+ 2 pontos):
 
-Divida os resultados obtidos nas RQs 02-04 por linguagem e analise como esses valores se comportam de acordo com as linguagem de cada repositório. Ou seja, acrescente ao seu trabalho a seguinte questão:
+Divida os resultados obtidos nas **RQs 02, 03 e 04** por linguagem e analise como esses valores se comportam de acordo com as linguagem de cada repositório. Ou seja, acrescente ao seu trabalho a seguinte questão:
 
 **RQ. 07:** Sistemas escritos em linguagens mais populares recebem mais contribuição externa, lançam mais releases e são atualizados com mais frequência?
+
 *Dica: compare os resultados para os sistemas com as linguagens da reportagem com os resultados de sistemas em outras linguagens.*
 
+## Processo:
+
+Submeta no SGA, até o dia 08/09, uma pasta compactada (.zip) com os seguintes artefatos:
+
+Os dados coletados num arquivo .csv;
+Os scripts de coleta de dados;
+O relatório final em formato .pdf.
+
+Valor total: 15 pontos
 
