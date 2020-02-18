@@ -21,11 +21,12 @@ Para cada laboratório, as tarefas serão divididas em sprints (com um valor apr
 1. Desenvolver o que foi especificado na descrição do trabalho;
 2. Efetuar um [commit taggeado](https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be), utilizando o identificador da sprint correspondente.
 
-O relatórios final deve ser submetido via tarefa do SGA (para fins de correção).
+O relatório final deve ser submetido via tarefa do SGA (para fins de correção).
 
 ## Material de Apoio
 1. [Introdução a MSR](https://github.com/xavierlaerte/labex20.1/blob/master/geral/Aula%201.%20Instrodu%C3%A7%C3%A3o%20MSR.pdf)
 2. [Mineração de GitHub](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Aula%202.%20API%20GitHub.pdf)
+3. [Modelo de Relatório]()
 
 ## Suporte Extra-lab
 Para eventuais dúvidas sobre os trabalhos, crie uma issue neste repositório. Não exite em responder issues abertas. A discussão pode ajudar outras pessoas.
