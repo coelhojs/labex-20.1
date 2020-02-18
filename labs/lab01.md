@@ -51,9 +51,11 @@ Divida os resultados obtidos nas **RQs 02, 03 e 04** por linguagem e analise com
 
 Utilize as tags (em negrito) para identificar as entregas deste laboratório. 
 **Prazo final:** 05/03
+
 **Valor total:** 15 pontos
 
-# Sprints:
+
+**Sprints:**
 
 **Lab01S01**: Consulta graphql para 100 repositórios + requisição automática (4 pontos)
 
