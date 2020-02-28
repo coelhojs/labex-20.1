@@ -27,6 +27,7 @@ O relatório final deve ser submetido via tarefa do SGA (para fins de correção
 1. [Introdução a MSR](https://github.com/xavierlaerte/labex20.1/blob/master/geral/Aula%201.%20Instrodu%C3%A7%C3%A3o%20MSR.pdf)
 2. [Mineração de GitHub](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Aula%202.%20API%20GitHub.pdf)
 3. [Modelo de Relatório]()
+3. [Exemplo de Query](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab01Example.py)
 
 ## Suporte Extra-lab
 Para eventuais dúvidas sobre os trabalhos, crie uma issue neste repositório. Não exite em responder issues abertas. A discussão pode ajudar outras pessoas.
