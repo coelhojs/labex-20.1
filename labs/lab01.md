@@ -49,14 +49,14 @@ Divida os resultados obtidos nas **RQs 02, 03 e 04** por linguagem e analise com
 
 ## Processo de Denvolvimento:
 
-Utilize as tags em negrito (LabXXSYY) para identificar as entregas deste laboratório. 
+Utilize as tags em negrito (**LabXXSYY**) para identificar as entregas deste laboratório. 
 
 **Sprints:**
 
 **Lab01S01**: Consulta graphql para 100 repositórios + requisição automática (4 pontos)
+
 **Lab01S02**: Páginação (consulta 1000 repositórios) + dados em arquivo .csv (4 pontos)
+
 **Lab01S03**: Análise de dados + elaboraço do relatório final (7 pontos)
 
-**Prazo final:** 12/03
-
-**Valor total:** 15 pontos
+**Prazo final:** 12/03 | **Valor total:** 15 pontos | **Desconto de 0.5 pontos por dia de atraso**
