@@ -12,15 +12,23 @@ Neste laboratório, vamo analisar a qualidade dos sistemas populares hospedados 
 
 ### 3. Definição de Questões de Pesquisa
 
-**RQ 01**. Quais as características dos repositórios Python do Guido van Rossum?
+**RQ 01:** Quais as características dos repositórios Python do Guido van Rossum?
 
-**RQ 02.** Quais as características dos top-1000 repositórios Python mais populares?
+**RQ 02:** Quais as características dos top-1000 repositórios Python mais populares?
 
-**RQ 03.**  
+**RQ 03:** Repositórios populares    
 
-**RQ 04.** 
+**RQ 04:** A popularidade influencia nas características de repositórios Python?
 
 ### 4. Definição de Métricas
+
+* **Popularidade:** número de estrelas, número de watchers, número de forks
+
+* **Tamanho:** linhas de código (LOC)
+
+* **Atividade:** número de releases, frequência de releases (número de releases / dias)
+
+* **Maturidade:** idade (em anos)
 
 ### 5. Coleta e Análise de Métricas
 
@@ -38,12 +46,12 @@ Utilize as tags em negrito (**LabXXSYY**) para identificar as entregas deste lab
 
 ### Sprints
 
-**Lab02S01**: (xx pontos)
+**Lab02S01**: (5 pontos)
 
-**Lab02S02**: (xx pontos)
+**Lab02S02**: (5 pontos)
 
-**Lab02S03**: (xx pontos)
+**Lab02S03**: (5 pontos)
 
 ### Prazos e Avaliação
 
-**Prazo final:** 03/04 | **Valor total:** 20 pontos | **Desconto de 0.5 pontos por dia de atraso**
+**Prazo final:** 09/04 | **Valor total:** 20 pontos | **Desconto de 0.5 pontos por dia de atraso**
