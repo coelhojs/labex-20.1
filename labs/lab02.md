@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste laboratório, vamo analisar a qualidade dos sistemas populares hospedados no GitHub, através da avaliação de métricas de análise estática. Dessa forma, vamos coletar um dataset formado pelos 1.000 repositórios com maior número de estrelas no GitHub, e analisaremos os valores medianos obtidos para três métricas estáticas da sua escolha.
+
 
 ## Metodologia
 
