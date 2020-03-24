@@ -8,6 +8,7 @@
 
 ## Laboratórios
 1. [Análise de Repositórios Populares](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab01.md)
+1. [Uma Análise Comparativa de Repositórios Python](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab02.md)
 
 ## Processo de Desenvolvimento
 
