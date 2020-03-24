@@ -66,4 +66,6 @@ Utilize as tags em negrito (**LabXXSYY**) para identificar as entregas deste lab
 
 ### Prazos e Avaliação
 
+Este laboratório deve ser desenvolvido em dupla. Para tanto, responda [esta issue](https://github.com/xavierlaerte/labex-20.1/issues/7), apontando a dupla com quem irá trabalhar e o repositório que será utilizado nas Sprints.
+
 **Prazo final:** 09/04 | **Valor total:** 20 pontos | **Desconto de 0.5 pontos por dia de atraso**
