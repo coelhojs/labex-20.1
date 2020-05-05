@@ -8,7 +8,8 @@
 
 ## Laboratórios
 1. [Análise de Repositórios Populares](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab01.md)
-1. [Uma Análise Comparativa de Repositórios Python](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab02.md)
+2. [Uma Análise Comparativa de Repositórios Python](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab02.md)
+3. [Avaliando o Buzz de Issues do GitHub no StackOverflow](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab02.md)
 
 ## Processo de Desenvolvimento
 
@@ -27,8 +28,8 @@ O relatório final deve ser submetido via tarefa do SGA (para fins de correção
 ## Material de Apoio
 1. [Introdução a MSR](https://github.com/xavierlaerte/labex20.1/blob/master/geral/Aula%201.%20Instrodu%C3%A7%C3%A3o%20MSR.pdf)
 2. [Mineração de GitHub](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Aula%202.%20API%20GitHub.pdf)
-3. [Modelo de Relatório]()
 3. [Exemplo de Query](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab01Example.py)
+4. [Mineração de StackOverflow]()
 
 ## Suporte Extra-lab
 Para eventuais dúvidas sobre os trabalhos, crie uma issue neste repositório. Não exite em responder issues abertas. A discussão pode ajudar outras pessoas.
