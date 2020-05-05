@@ -69,3 +69,9 @@ Utilize as tags em negrito (**LabXXSYY**) para identificar as entregas deste lab
 Este laboratório deve ser desenvolvido em dupla. Para tanto, responda [esta issue](https://github.com/xavierlaerte/labex-20.1/issues/7), apontando a dupla com quem irá trabalhar e o repositório que será utilizado nas Sprints.
 
 **Prazo final:** 09/04 | **Valor total:** 20 pontos | **Desconto de 0.5 pontos por dia de atraso**
+
+### Material de Apoio
+
+1. [Slides de Apresentação do Lab](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab03%20-%20Avaliando%20o%20Buzz%20de%20issues%20do%20Github%20no%20StackOverflow.pdf)
+2. [Mineração de StackOverflow](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab03%20-%20stackoverflow%20api.pdf)
+3. [Visualização de Dados]()
