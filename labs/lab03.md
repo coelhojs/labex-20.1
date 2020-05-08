@@ -18,7 +18,7 @@ A partir do conjunto de issues selecionadas, é necessário que identifiquemos a
 
 * Identificar no título das issues palavras chave específicas, que indiquem qual parte do código está sendo discutido (por exemplo, a partir de exepressões regulares que incluam o padrão camelcase). Para cada módulo identificado nas issues, buscar no dump do StackOverflow perguntas que possuam referência a eles, numa janela de tempo próxima à criação da issue.
 
-* Buscar pelo código das issues (#CODIGO) no dump do StackOverflow.
+* Buscar pelo código das issues (string: "Issue #CODIGO") no dump do StackOverflow. Neste caso, adicione também o nome e o onwer do repositório na sua consulta, para garantir que a issue pesquisada é referente ao repositório analisado.
 
 **Atenção:** No relatrio final, você deve indicar e justificar a abordagem escolhida. Apresente os resultados obtidos com esta mineração.
 
