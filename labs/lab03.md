@@ -46,11 +46,13 @@ Para cada questão de pesquisa, as seguintes métricas serão calculadas:
 
 **Atenção:** defina as métricas necessárias para responder às questões de pesquisa definidas pelo grupo e discuta no relatório final.
 
+## Ameaças à Validade
+
+De acordo com a metodologia escolhida e a estratégia adotada para selecionar os Posts no SO, discuta as ameaças a validade do seu trabalho, dividindo-as em validade de construção, interna e externa. Discuta cada uma delas e aponte abordagens que você adotou (ou poderia ter adotado) para mitigar essas ameaças.
+
 ## Relatório Final
 
-Para cada uma questões de pesquisa anteriores, faça a apresentação dos valores obtidos utilizando uma das técnicas vistas em sala. Elabore hipóteses sobre o que você espera de resposta e tente analisar a partir dos valores obtidos.
-
-Elabore um documento que apresente (i) uma introdução simples com hipóteses informais; (ii) a metodologia que você utilizou para responder às questões de pesquisa; (iii) os resultados obtidos para cada uma delas; (iii) a discussão sobre o que você esperava como resultado (suas hipóteses) e os valores obtidos.  
+Elabore um documento que apresente (i) uma introdução simples com hipóteses informais; (ii) as questões de pesquisa investigadas; (iii) a metodologia que você utilizou para respondê-las; (iv) os resultados obtidos; (v) a discussão sobre o que você esperava como resultado (suas hipóteses) e os valores obtidos; (vi) as ameaças à validade do seu estudo.  
 
 ## Processo de Desenvolvimento
 
@@ -64,7 +66,7 @@ Utilize as tags em negrito (**LabXXSYY**) para identificar as entregas deste lab
 
 **Lab02S03**: Mineração do StackOverflow (consulta dos posts no StackOverflow + valores das métricas do estudo) | **Prazo:** 14/05 | **Valor:** 7 pontos
 
-**Lab02S04**: Relatório final, com a produção de visualizações para cada RQ. | **Prazo:** 21/05 | **Valor:** 13 pontos
+**Lab02S04**: Relatório final (incluindo a seção de ameaças à validade). | **Prazo:** 21/05 | **Valor:** 13 pontos
 
 ### Prazos e Avaliação
 
