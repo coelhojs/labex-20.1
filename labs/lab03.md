@@ -26,11 +26,11 @@ A partir do conjunto de issues selecionadas, é necessário que identifiquemos a
 
 Inicialmente, este laboratório tem o objetivo de responder:
 
-**RQ 01:** Com que frequência issues do GitHub são discutidas no StackOverflow?
+* **RQ 01:** Com que frequência issues do GitHub são discutidas no StackOverflow?
 
-**RQ 02:** Qual o impacto das discussões de issues do GitHub no StackOverflow?
+* **RQ 02:** Qual o impacto das discussões de issues do GitHub no StackOverflow?
 
-**RQ 03:** Existe alguma relação entre a popularidade dos repositórios e o buzz gerado?
+* **RQ 03:** Existe alguma relação entre a popularidade dos repositórios e o buzz gerado?
 
 **Atenção:** três questões de pesquisa adicionais devem ser adicionadas pelo grupo (Sprint 01).
 
@@ -60,13 +60,13 @@ Utilize as tags em negrito (**LabXXSYY**) para identificar as entregas deste lab
 
 ### 5.1. Sprints
 
-**Lab02S01**: Criação das questões de pesquisa e definição do dataset (documento de texto descrevendo as RQs escolhidas, as métricas associadas e o dataset a ser analisado) | **Prazo:** 30/04 | **Valor:** 3 pontos
+* **Lab02S01**: Criação das questões de pesquisa e definição do dataset (documento de texto descrevendo as RQs escolhidas, as métricas associadas e o dataset a ser analisado) | **Prazo:** 30/04 | **Valor:** 3 pontos
 
-**Lab02S02**: Coleta de issues (arquivo .csv contendo as issues do dataset definido) | **Prazo:** 07/05 | **Valor:** 7 pontos
+* **Lab02S02**: Coleta de issues (arquivo .csv contendo as issues do dataset definido) | **Prazo:** 07/05 | **Valor:** 7 pontos
 
-**Lab02S03**: Mineração do StackOverflow (consulta dos posts no StackOverflow + valores das métricas do estudo) | **Prazo:** 14/05 | **Valor:** 7 pontos
+* **Lab02S03**: Mineração do StackOverflow (consulta dos posts no StackOverflow + valores das métricas do estudo) | **Prazo:** 14/05 | **Valor:** 7 pontos
 
-**Lab02S04**: Relatório final (incluindo a seção de ameaças à validade). | **Prazo:** 21/05 | **Valor:** 13 pontos
+* **Lab02S04**: Relatório final (incluindo a seção de ameaças à validade). | **Prazo:** 21/05 | **Valor:** 13 pontos
 
 ### 5.2. Prazos e Avaliação
 
@@ -76,6 +76,5 @@ Este laboratório deve ser desenvolvido em dupla. Para tanto, responda [esta iss
 
 ### 5.3. Material de Apoio
 
-1. [Slides de Apresentação do Lab](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab03%20-%20Avaliando%20o%20Buzz%20de%20issues%20do%20Github%20no%20StackOverflow.pdf)
-2. [Mineração de StackOverflow](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab03%20-%20stackoverflow%20api.pdf)
-3. [Visualização de Dados]()
+* [Slides de Apresentação do Lab](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab03%20-%20Avaliando%20o%20Buzz%20de%20issues%20do%20Github%20no%20StackOverflow.pdf)
+* [Mineração de StackOverflow](https://github.com/xavierlaerte/labex-20.1/blob/master/geral/Lab03%20-%20stackoverflow%20api.pdf)
