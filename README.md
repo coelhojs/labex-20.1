@@ -9,7 +9,8 @@
 ## Laboratórios
 1. [Análise de Repositórios Populares](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab01.md)
 2. [Uma Análise Comparativa de Repositórios Python](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab02.md)
-3. [Avaliando o Buzz de Issues do GitHub no StackOverflow](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab02.md)
+3. [Avaliando o Buzz de Issues do GitHub no StackOverflow](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab03.md)
+4. [Um Estudo Exploratório do Uso de Labels no GitHub](https://github.com/xavierlaerte/labex-20.1/blob/master/labs/lab04.md)
 
 ## Processo de Desenvolvimento
 
