@@ -12,10 +12,11 @@ Apesar de sua reconhecida utilidade e aplicabilidade, pouco se conhece sobre o u
 
 Para tanto, o dataset disponíbilizado apresenta duas fontes de dados principais:
 
-* Um conjunto de informações sobre os 5k repoistórios mais populares do GitHub, tais como: número de estrelas, de forks, de releases e  data de criação.
-* Uma base de dados com mais de 50k labels utilizadas por esses repositórios, tais como: label utilizada, total de issues associada a label, número de issues abertas e fechadas.
+* Um conjunto de informações sobre os 5k repoistórios mais populares do GitHub, tais como: número de estrelas, de _forks_, de releases e  data de criação.
+* Uma base de dados com mais de 97k _labels_ utilizadas por esses repositórios, tais como: _label_ utilizada, total de _issues_ associada a _label_, número de _issues_ abertas e fechadas.
+* Uma versão filtrada da base anterior, com certa de 50k _labels_ associadas a pelo menos uma _issue_.
 
-O pacote de dados e replicação da coleta podem ser acessados [aqui](https://github.com/xavierlaerte/labex-20.1/tree/master/labs/replication).
+O pacote de dados e replicação da coleta pode ser acessado [aqui](https://github.com/xavierlaerte/labex-20.1/tree/master/labs/replication).
 
 ## 3. Visualização dos Resultados
 
